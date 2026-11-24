@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Turf Management System",
+  "description": "Autonomous sports turf booking, maintenance scheduling, inventory control, and multi-role operations platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
